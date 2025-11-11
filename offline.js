@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1762204938,
+	"version": 1762895689,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -41,6 +41,11 @@
 		"images/sprite9-sheet0.png",
 		"images/sprite33-sheet0.png",
 		"images/sprite36-sheet0.png",
+		"images/sprite42-sheet0.png",
+		"images/sprite44-sheet0.png",
+		"images/btnconfig-sheet0.png",
+		"images/sonidoon-sheet0.png",
+		"images/sonidooff-sheet0.png",
 		"media/intromusic.m4a",
 		"media/intromusic.ogg",
 		"media/musictango.m4a",
