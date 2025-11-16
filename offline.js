@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1762895689,
+	"version": 1763313720,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -38,6 +38,7 @@
 		"images/sprite30-sheet0.png",
 		"images/sprite31-sheet0.png",
 		"images/plataforma-sheet0.png",
+		"images/sprite32-sheet0.png",
 		"images/sprite9-sheet0.png",
 		"images/sprite33-sheet0.png",
 		"images/sprite36-sheet0.png",
@@ -55,6 +56,10 @@
 		"media/404743__owlstorm__retro-video-game-sfx-fail.m4a",
 		"media/404743__owlstorm__retro-video-game-sfx-fail.ogg",
 		"media/color.m4a",
+		"media/468632__juliantoquica__014_boton1.m4a",
+		"media/468632__juliantoquica__014_boton1.ogg",
+		"media/solo-de-bombo-legÜero.m4a",
+		"media/solo-de-bombo-legÜero.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
